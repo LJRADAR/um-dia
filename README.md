@@ -1,6 +1,6 @@
 # 1 Dia – Um dia de cada vez
 
-App gratuito de apoio diário na recuperação: contador de tempo limpo, marcos de 1 dia até 50 anos com chaveiros coloridos, 10º Passo, motivos, companheiros, reuniões e ajuda a um toque.
+App gratuito de apoio diário na recuperação: contador de tempo limpo, marcos de 1 dia até 50 anos com chaveiros coloridos, inventário diário, motivos, companheiros, reuniões e ajuda a um toque.
 
 **Acesse:** https://ljradar.github.io/um-dia/
 
