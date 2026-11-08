@@ -1,0 +1,30 @@
+{
+  "name": "1 Dia – Um dia de cada vez",
+  "short_name": "1 Dia",
+  "description": "Apoio diário na recuperação, para quem está em recuperação e para familiares.",
+  "lang": "pt-BR",
+  "start_url": "/um-dia/",
+  "scope": "/um-dia/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#001E9B",
+  "theme_color": "#001E9B",
+  "icons": [
+    {
+      "src": "/um-dia/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/um-dia/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/um-dia/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
