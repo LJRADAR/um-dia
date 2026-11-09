@@ -26,5 +26,33 @@
       "type": "image/png",
       "purpose": "maskable"
     }
+  ],
+  "shortcuts": [
+    {
+      "name": "Preciso de ajuda",
+      "short_name": "Ajuda",
+      "description": "Abrir a tela de emergência",
+      "url": "/um-dia/?abrir=emergencia",
+      "icons": [
+        {
+          "src": "/um-dia/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Inventário de hoje",
+      "short_name": "Inventário",
+      "description": "Fazer o inventário diário",
+      "url": "/um-dia/?abrir=inventario",
+      "icons": [
+        {
+          "src": "/um-dia/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
   ]
 }
