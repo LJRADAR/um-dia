@@ -1,4 +1,4 @@
-# 1 Dia – Um dia de cada vez
+# Mais um Dia
 
 App gratuito de apoio diário na recuperação: contador de tempo limpo, marcos de 1 dia até 50 anos com chaveiros coloridos, inventário diário, motivos, companheiros, reuniões e ajuda a um toque.
 
