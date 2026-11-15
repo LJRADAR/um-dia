@@ -1,6 +1,6 @@
 // Mais um Dia: funciona sem internet (gerado por scripts/montar-site.js)
 const BASE = "/um-dia";
-const CACHE = '1dia-1707e5a89f';
+const CACHE = '1dia-f4f16d5f35';
 const SHELL = BASE + '/';
 const FILES = [SHELL, BASE + '/manifest.json', BASE + '/icon-192.png', BASE + '/icon-512.png', BASE + '/apple-touch-icon.png', BASE + '/favicon.ico'];
 
